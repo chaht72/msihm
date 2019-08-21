@@ -1,0 +1,1 @@
+echo "sokol biggapon of ".$total['provider_division']." bivag ".$total['provider_zilla']." zelar ".$total['provider_upazila']." Thanar";
